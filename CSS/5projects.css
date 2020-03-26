@@ -1,0 +1,27 @@
+/* .card-body1{
+     text-align: center;
+    justify-content: center; 
+} */
+.project{
+margin: 20px;
+float: center;
+}
+.proj{
+    margin: 20px;
+    color: #BB86FC;
+    float: center;
+}
+.projects{
+    width: 40%
+}
+
+.card-dark{
+    float: right;
+    margin: 5%;
+    /* display: flex; */
+    background-color: rgba(0,0,0,0.7);
+}
+.card-text{
+    color: white
+}
+

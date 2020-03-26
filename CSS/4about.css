@@ -1,0 +1,43 @@
+  #img{
+    float: right;
+      display: flex;
+      /* border-radius: 100%; */
+      border: black;
+      border-style: none;
+      margin: 20px;
+      z-index: 2;
+      position: fixed;
+  }
+  #img:hover{
+    color: black;
+    opacity: .7;
+    z-index: 3;
+
+  }
+  /* .abt{
+    margin: 20px;
+    color: #BB86FC;
+    float: center;
+  } */
+  .about{
+      color: lightgray;
+      font-size: 200%;
+      background-color: rgba(0,0,0,0.7);
+      padding: 30px;
+      width: 80%; 
+      float: right;
+    
+  }
+.resume{
+  float: right;
+  font-size: 120%;
+  color: lightgray;
+}
+
+.title{
+  color:rgb(194, 89, 255);
+      font-size: 400%;
+      padding: 30px;
+      width: 80%; 
+     float: right;
+}

@@ -1,0 +1,16 @@
+/* body{
+    background-color: ;
+} */
+.wrapper{
+margin: 20px;
+}
+body {
+    background-image: url('../assets/earth.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* text-align: center;
+    justify-content: center; */
+    
+    
+}

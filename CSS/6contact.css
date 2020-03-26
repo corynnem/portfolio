@@ -1,0 +1,22 @@
+.png{
+    filter: invert(100%); 
+    float: left;
+    position: fixed;
+}
+.connect{
+    margin: 30px;
+    color: white;
+    position: fixed;
+}
+
+.contact{
+    color: lightgray;
+    font-size: 200%;
+    width: 80%; 
+    float: right;
+
+}
+.here{
+   text-align: center;
+   color: white;
+}

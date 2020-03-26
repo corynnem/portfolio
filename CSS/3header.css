@@ -1,0 +1,7 @@
+.heading{
+    color: lightgray;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    /* width: 50%; */
+}

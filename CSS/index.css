@@ -1,0 +1,10 @@
+@import "4about.css";
+@import "2body.css";
+@import "6contact.css";
+@import "7footer.css";
+@import "3header.css";
+@import "1navbar.css";
+@import "5projects.css";
+body{
+    font-family: 'Baloo Da 2', cursive;
+}
