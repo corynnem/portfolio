@@ -2,6 +2,17 @@
 nav{
 justify-content: center;
 display: flex;
+ color:#BB86FC;
+    /* display: block; */
+    padding: 8px;
+    width: 30%;
+    /* float: left; */
+    top: 0%;
+    border-style: solid;
+    border-top:black;
+    border-left: black;
+    border-right: black;
+    margin-left: 33%;
 
 }
 ul {
